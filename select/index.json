@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Pastoral",
+  "base_artist": "Aimer",
+  "createdAt": "2026-02-16T12:41:16.832708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pastoral",
+      "artist": "Faithless",
+      "has_synced": true,
+      "path": "select/01_Pastoral_Faithless.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pastoral",
+      "artist": "The Jesus Lizard",
+      "has_synced": false,
+      "path": "select/02_Pastoral_The_Jesus_Lizard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pastoral Radio Hit",
+      "artist": "Radiator Hospital",
+      "has_synced": false,
+      "path": "select/03_Pastoral_Radio_Hit_Radiator_Hospital.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dinner Without Grace (Pastoral Mix)",
+      "artist": "De/Vision",
+      "has_synced": false,
+      "path": "select/04_Dinner_Without_Grace_(Pastoral_Mix)_De_Vision.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pastoral",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_Pastoral_Aimer.txt"
+    }
+  ]
+}
